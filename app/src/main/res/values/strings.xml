@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SmartParkingSystem</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="location">
+        <item>NOIDA SEC-18</item>
+        <item>CONTURAUGHT PLACE</item>
+        <item>HABITATE COUNTER</item>
+    </string-array>
+    <string name="booking_message">Your Order has been confirmed</string>
+    <string name="title_activity_booking_message">BookingMessage</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_money_display">MoneyDisplay</string>
+</resources>
